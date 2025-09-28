@@ -1,1 +1,1 @@
-"com.hungnt.enhancedscroller": "https://github.com/HungNT-Packages/HungNT-EnhancedScroller.git"
+Unity 滑动列表
